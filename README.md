@@ -1,4 +1,4 @@
-# 🚀 Portfolio Website Revamp – Project Plan
+# Portfolio Website Revamp – Project Plan
 
 I've had a portfolio site up for a while — it works, but it's due for an upgrade. The goal is to rebuild it from the ground up with full-stack functionality: dynamic content, proper API structure, better form handling, and a modernized frontend. This project will also help sharpen my backend and deployment workflows.
 
@@ -6,7 +6,7 @@ This project tracks everything — PRs, features, experiments, and commits.
 
 ---
 
-## 📂 Project Summary
+## Project Summary
 
 - **Methodology:** Agile (Scrum)
 - **Sprints:** 3–4 (1 week each)
@@ -15,7 +15,7 @@ This project tracks everything — PRs, features, experiments, and commits.
 
 ---
 
-## 🔵 Epic 1: Technical Discovery & Requirements
+## Epic 1: Technical Discovery & Requirements
 
 **Goal:** Define the problem, audit the existing portfolio, and lay the architectural foundation.
 
@@ -34,7 +34,7 @@ This project tracks everything — PRs, features, experiments, and commits.
 
 ---
 
-## 🟢 Epic 2: Backend API – Spring Boot Service
+## Epic 2: Backend API – Spring Boot Service
 
 **Goal:** Build scalable backend services to power dynamic content and handle form submissions.
 
@@ -57,7 +57,7 @@ This project tracks everything — PRs, features, experiments, and commits.
 
 ---
 
-## 🟠 Epic 3: Frontend – ReactJS UI
+## Epic 3: Frontend – ReactJS UI
 
 **Goal:** Rebuild frontend with React, integrating APIs and improving UX/UI.
 
@@ -77,7 +77,7 @@ This project tracks everything — PRs, features, experiments, and commits.
 
 ---
 
-## 🟣 Epic 4: CI/CD, Deployment & Environment Management
+## Epic 4: CI/CD, Deployment & Environment Management
 
 **Goal:** Deploy the application and set up continuous integration pipelines.
 
@@ -95,7 +95,7 @@ This project tracks everything — PRs, features, experiments, and commits.
 
 ---
 
-## 🟡 Epic 5: Final QA & Documentation
+## Epic 5: Final QA & Documentation
 
 **Goal:** Polish the app, finalize documentation, and perform QA.
 
@@ -125,7 +125,7 @@ This project tracks everything — PRs, features, experiments, and commits.
 
 ---
 
-## ✅ Success Criteria
+## Success Criteria
 
 - Portfolio hosted live with Netlify
 - Dynamic project data from backend API
